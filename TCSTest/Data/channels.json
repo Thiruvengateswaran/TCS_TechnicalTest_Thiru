@@ -1,0 +1,737 @@
+[
+  {
+    "channelId": "d8878cfd-326d-4337-802b-25ae59b78538",
+    "name": "Sky News Australia Australia",
+    "category": "News",
+    "language": "Tamil",
+    "region": "Australia"
+  },
+  {
+    "channelId": "675ce652-b3fe-4b4a-aba2-bb65cea8e4c2",
+    "name": "Nickelodeon",
+    "category": "Kids",
+    "language": "Malayalam",
+    "region": "USA"
+  },
+  {
+    "channelId": "e4c04bdc-ae42-4f04-8a72-7c4a865d2d9d",
+    "name": "Fox Movies",
+    "category": "Movies",
+    "language": "Hindi",
+    "region": "USA"
+  },
+  {
+    "channelId": "834c2eac-4fe1-4a00-a3d4-882953b0f28d",
+    "name": "BBC Earth",
+    "category": "Documentary",
+    "language": "Malayalam",
+    "region": "India"
+  },
+  {
+    "channelId": "2f3f2dbb-d9cf-4dcd-9af0-50048de7841c",
+    "name": "BBC Earth",
+    "category": "Documentary",
+    "language": "Tamil",
+    "region": "India"
+  },
+  {
+    "channelId": "42569094-b735-4a10-9b59-b798f4b83e2c",
+    "name": "FX",
+    "category": "TV Shows",
+    "language": "Tamil",
+    "region": "India"
+  },
+  {
+    "channelId": "df73ec86-405f-4e72-a75e-9d00798c35cc",
+    "name": "HBO Australia",
+    "category": "TV Shows",
+    "language": "Tamil",
+    "region": "India"
+  },
+  {
+    "channelId": "9cb11354-0e60-44cc-8b72-fb5aa138d1bf",
+    "name": "MTV Australia",
+    "category": "Music",
+    "language": "English",
+    "region": "India"
+  },
+  {
+    "channelId": "8543f5fd-f1ef-4107-822f-b62aaeb05970",
+    "name": "Fox Sports",
+    "category": "Sports",
+    "language": "English",
+    "region": "Australia"
+  },
+  {
+    "channelId": "7cda8bf1-d4ef-46ad-848a-dd2e51f594d8",
+    "name": "HBO 1",
+    "category": "TV Shows",
+    "language": "English",
+    "region": "Australia"
+  },
+  {
+    "channelId": "8441dbad-9da2-4d04-bb89-fbe9ea73458e",
+    "name": "ESPN",
+    "category": "Sports",
+    "language": "English",
+    "region": "India"
+  },
+  {
+    "channelId": "344a89d6-9ed6-4661-aad7-e094137ba948",
+    "name": "Fox Footy Australia",
+    "category": "Sports",
+    "language": "English",
+    "region": "India"
+  },
+  {
+    "channelId": "02735911-ea4d-4281-8826-a228076bda8b",
+    "name": "Nickelodeon",
+    "category": "Kids",
+    "language": "Hindi",
+    "region": "Australia"
+  },
+  {
+    "channelId": "dca55d51-af6e-435c-a94a-df1da7b90657",
+    "name": "BBC Earth",
+    "category": "Documentary",
+    "language": "Hindi",
+    "region": "USA"
+  },
+  {
+    "channelId": "4f1d268b-8015-44a3-a674-c42843f27ca0",
+    "name": "Fox Showcase HD",
+    "category": "TV Shows",
+    "language": "Malayalam",
+    "region": "Australia"
+  },
+  {
+    "channelId": "11f66925-553d-4fc9-b72a-b0454ee7f186",
+    "name": "CNN International 1",
+    "category": "News",
+    "language": "English",
+    "region": "Australia"
+  },
+  {
+    "channelId": "b28153b3-0a11-485c-854a-7174b3477c73",
+    "name": "Nickelodeon Australia",
+    "category": "Kids",
+    "language": "Hindi",
+    "region": "USA"
+  },
+  {
+    "channelId": "7662e949-b899-44f6-bbdc-a2d7b785b423",
+    "name": "Nickelodeon",
+    "category": "Kids",
+    "language": "Malayalam",
+    "region": "Australia"
+  },
+  {
+    "channelId": "2140bf96-7b67-4e99-bf64-033fbb946c4f",
+    "name": "Disney Channel",
+    "category": "Kids",
+    "language": "Hindi",
+    "region": "USA"
+  },
+  {
+    "channelId": "19debb54-3aca-4653-84e9-984e41404708",
+    "name": "Lifestyle Australia",
+    "category": "Lifestyle",
+    "language": "Tamil",
+    "region": "USA"
+  },
+  {
+    "channelId": "378f5075-5252-48e9-b41c-c58cd64888f0",
+    "name": "Fox Sports",
+    "category": "Sports",
+    "language": "Hindi",
+    "region": "USA"
+  },
+  {
+    "channelId": "2b0f35bf-a6d4-4dae-96e4-17f951963d99",
+    "name": "Fox Sports 1",
+    "category": "Sports",
+    "language": "Tamil",
+    "region": "India"
+  },
+  {
+    "channelId": "2a394f83-1ead-4667-9710-b0804e90d23e",
+    "name": "Cartoon Network",
+    "category": "Kids",
+    "language": "Hindi",
+    "region": "Australia"
+  },
+  {
+    "channelId": "48e31ac0-9f74-473d-a382-676024185a28",
+    "name": "Sky News Australia 1",
+    "category": "News",
+    "language": "English",
+    "region": "India"
+  },
+  {
+    "channelId": "e08709f1-5507-4f44-b0eb-f80231bf4b10",
+    "name": "Nickelodeon",
+    "category": "Kids",
+    "language": "Tamil",
+    "region": "India"
+  },
+  {
+    "channelId": "5a9941da-4a11-4b4e-b4a6-71c4dd844729",
+    "name": "Nickelodeon HD",
+    "category": "Kids",
+    "language": "Malayalam",
+    "region": "India"
+  },
+  {
+    "channelId": "0b3e96e3-541f-4904-af28-488bcf93fed0",
+    "name": "Lifestyle",
+    "category": "Lifestyle",
+    "language": "English",
+    "region": "USA"
+  },
+  {
+    "channelId": "beeebf91-152d-4b63-834d-86646ee6a4da",
+    "name": "National Geographic",
+    "category": "Documentary",
+    "language": "Hindi",
+    "region": "India"
+  },
+  {
+    "channelId": "dc8991fd-bc42-43ed-9fbe-af1f28be9251",
+    "name": "MTV",
+    "category": "Music",
+    "language": "Malayalam",
+    "region": "India"
+  },
+  {
+    "channelId": "81fc4805-c74b-4189-ba08-8ef6b17baf3e",
+    "name": "TLC Extra",
+    "category": "Lifestyle",
+    "language": "Tamil",
+    "region": "India"
+  },
+  {
+    "channelId": "c1d33b41-009d-4c58-8b4e-95fb7f863dde",
+    "name": "CNN International",
+    "category": "News",
+    "language": "Tamil",
+    "region": "Australia"
+  },
+  {
+    "channelId": "51a6f7a5-581f-441c-9a11-36042ccdb410",
+    "name": "Cartoon Network",
+    "category": "Kids",
+    "language": "Tamil",
+    "region": "Australia"
+  },
+  {
+    "channelId": "8f6d5afe-af98-4cc0-99eb-69d86aa21a9f",
+    "name": "Fox Showcase 1",
+    "category": "TV Shows",
+    "language": "Tamil",
+    "region": "Australia"
+  },
+  {
+    "channelId": "1fd6c58b-66c6-474b-9a21-bb70d2781e73",
+    "name": "Fox Footy",
+    "category": "Sports",
+    "language": "English",
+    "region": "USA"
+  },
+  {
+    "channelId": "7f76ed19-e827-4aab-8300-ef43f62de9bd",
+    "name": "Lifestyle",
+    "category": "Lifestyle",
+    "language": "Tamil",
+    "region": "Australia"
+  },
+  {
+    "channelId": "130281ab-f26d-499d-a285-45ce98702a2f",
+    "name": "HBO",
+    "category": "TV Shows",
+    "language": "Tamil",
+    "region": "Australia"
+  },
+  {
+    "channelId": "8c97eb55-0376-4622-b02d-042ab25dbf04",
+    "name": "Fox Showcase Extra",
+    "category": "TV Shows",
+    "language": "English",
+    "region": "India"
+  },
+  {
+    "channelId": "7e6e1629-84ac-40a8-8093-ff0cf8f08697",
+    "name": "Fox Movies",
+    "category": "Movies",
+    "language": "Tamil",
+    "region": "USA"
+  },
+  {
+    "channelId": "fd1f22e0-ff6a-42ee-bf29-bbe0d4d30323",
+    "name": "FX",
+    "category": "TV Shows",
+    "language": "Tamil",
+    "region": "India"
+  },
+  {
+    "channelId": "7b0cbd26-7ae5-4bd4-b6e7-a715d5098474",
+    "name": "FX",
+    "category": "TV Shows",
+    "language": "Tamil",
+    "region": "India"
+  },
+  {
+    "channelId": "eb1a518c-0623-49ae-a205-b8272357483a",
+    "name": "Fox Sports",
+    "category": "Sports",
+    "language": "English",
+    "region": "Australia"
+  },
+  {
+    "channelId": "7cdd9a6d-3657-42e6-ba41-4ad277421a5b",
+    "name": "ESPN HD",
+    "category": "Sports",
+    "language": "Hindi",
+    "region": "USA"
+  },
+  {
+    "channelId": "4cfdaf15-0a72-4238-954a-bbc9b841e2e9",
+    "name": "MTV",
+    "category": "Music",
+    "language": "Malayalam",
+    "region": "Australia"
+  },
+  {
+    "channelId": "85656b31-2d3f-498b-9f2c-46ea4dc4efae",
+    "name": "CNN International",
+    "category": "News",
+    "language": "English",
+    "region": "India"
+  },
+  {
+    "channelId": "db0538fc-5c43-41c9-b210-8776f46ccf4d",
+    "name": "Sky News Australia Australia",
+    "category": "News",
+    "language": "Hindi",
+    "region": "India"
+  },
+  {
+    "channelId": "0d723e5d-2acf-4687-a576-2495416d43dd",
+    "name": "CNN International",
+    "category": "News",
+    "language": "Malayalam",
+    "region": "India"
+  },
+  {
+    "channelId": "6579f0db-756a-4fb9-9e87-f428785d28cc",
+    "name": "Nickelodeon",
+    "category": "Kids",
+    "language": "English",
+    "region": "USA"
+  },
+  {
+    "channelId": "3cf9c8a2-79ac-4b8d-ac6a-bf90b4347d83",
+    "name": "Fox Sports",
+    "category": "Sports",
+    "language": "English",
+    "region": "India"
+  },
+  {
+    "channelId": "ac14ebce-ee3e-4bf7-b6d5-850d6a293fed",
+    "name": "CNN International",
+    "category": "News",
+    "language": "Malayalam",
+    "region": "India"
+  },
+  {
+    "channelId": "54472ca6-c0c8-40c4-8435-aa737e3b801c",
+    "name": "MTV",
+    "category": "Music",
+    "language": "English",
+    "region": "USA"
+  },
+  {
+    "channelId": "efdc8359-8aac-4ecf-9469-243cf11400b1",
+    "name": "HBO Plus",
+    "category": "TV Shows",
+    "language": "English",
+    "region": "India"
+  },
+  {
+    "channelId": "4f791110-efa3-47a6-93e9-34162fc5c1f8",
+    "name": "Fox Sports Extra",
+    "category": "Sports",
+    "language": "Tamil",
+    "region": "USA"
+  },
+  {
+    "channelId": "e40ae298-97f9-42a0-a232-fcc08b8948dc",
+    "name": "Disney Channel",
+    "category": "Kids",
+    "language": "Hindi",
+    "region": "Australia"
+  },
+  {
+    "channelId": "be4c642c-c6d3-4550-af78-bbba727deab3",
+    "name": "CNN International",
+    "category": "News",
+    "language": "English",
+    "region": "USA"
+  },
+  {
+    "channelId": "53b5dda9-b169-4939-abb7-77ce892c779b",
+    "name": "TLC",
+    "category": "Lifestyle",
+    "language": "Hindi",
+    "region": "USA"
+  },
+  {
+    "channelId": "8042ee4e-f391-4ecd-9f80-225f66473173",
+    "name": "Fox Sports",
+    "category": "Sports",
+    "language": "Tamil",
+    "region": "Australia"
+  },
+  {
+    "channelId": "11406664-593e-42a1-80a5-2543e3c79ac8",
+    "name": "Lifestyle",
+    "category": "Lifestyle",
+    "language": "Tamil",
+    "region": "Australia"
+  },
+  {
+    "channelId": "0c08aadd-82b7-4d51-967a-fdb933011fcb",
+    "name": "CNN International",
+    "category": "News",
+    "language": "English",
+    "region": "USA"
+  },
+  {
+    "channelId": "47bb8d3b-248d-4355-bc20-b51923c56bc8",
+    "name": "Lifestyle",
+    "category": "Lifestyle",
+    "language": "Hindi",
+    "region": "USA"
+  },
+  {
+    "channelId": "c4ee946e-b489-4e33-9c9f-f4ba85a4de9f",
+    "name": "Fox Footy Plus",
+    "category": "Sports",
+    "language": "Malayalam",
+    "region": "India"
+  },
+  {
+    "channelId": "70b12c6e-ba19-4721-a114-a60f973a8007",
+    "name": "Cartoon Network",
+    "category": "Kids",
+    "language": "English",
+    "region": "Australia"
+  },
+  {
+    "channelId": "47f165e8-b33a-48ea-9de0-1796ba942626",
+    "name": "Fox Showcase",
+    "category": "TV Shows",
+    "language": "Tamil",
+    "region": "Australia"
+  },
+  {
+    "channelId": "f8a54eb3-74ab-4080-afef-8ed0b49dbb38",
+    "name": "TLC 1",
+    "category": "Lifestyle",
+    "language": "Malayalam",
+    "region": "USA"
+  },
+  {
+    "channelId": "29131283-40e1-4f31-8133-e9e0ada60cd3",
+    "name": "BBC Earth",
+    "category": "Documentary",
+    "language": "Tamil",
+    "region": "USA"
+  },
+  {
+    "channelId": "0d55bac8-19a4-4731-b2c8-1d3b3684aa70",
+    "name": "CNN International",
+    "category": "News",
+    "language": "Hindi",
+    "region": "USA"
+  },
+  {
+    "channelId": "d5b97ea0-7c87-415c-9de2-d2e04f93dd22",
+    "name": "ESPN",
+    "category": "Sports",
+    "language": "English",
+    "region": "India"
+  },
+  {
+    "channelId": "be549f7a-3296-4f30-917b-87cb730c78c8",
+    "name": "Animal Planet",
+    "category": "Documentary",
+    "language": "Malayalam",
+    "region": "India"
+  },
+  {
+    "channelId": "943221af-ea49-4247-92f0-6e93b4c6434e",
+    "name": "TLC Extra",
+    "category": "Lifestyle",
+    "language": "Tamil",
+    "region": "USA"
+  },
+  {
+    "channelId": "80e803fb-40a6-4bd6-9e08-749e51d6fc13",
+    "name": "TLC",
+    "category": "Lifestyle",
+    "language": "Hindi",
+    "region": "India"
+  },
+  {
+    "channelId": "b67bab5c-9213-41ca-a513-7c0aadb9f877",
+    "name": "Lifestyle",
+    "category": "Lifestyle",
+    "language": "Hindi",
+    "region": "USA"
+  },
+  {
+    "channelId": "268b3cb2-bc0f-4925-a3e5-020b7302164a",
+    "name": "CNN International",
+    "category": "News",
+    "language": "Tamil",
+    "region": "USA"
+  },
+  {
+    "channelId": "0825b652-cf36-4687-bfb6-82a95f9e6f99",
+    "name": "HBO",
+    "category": "TV Shows",
+    "language": "Malayalam",
+    "region": "India"
+  },
+  {
+    "channelId": "6da2f090-6a9b-4558-aee3-3faad7adcf95",
+    "name": "Fox Showcase",
+    "category": "TV Shows",
+    "language": "Malayalam",
+    "region": "Australia"
+  },
+  {
+    "channelId": "4a4c172a-ff92-40bf-b312-27d926c12c99",
+    "name": "National Geographic",
+    "category": "Documentary",
+    "language": "Malayalam",
+    "region": "India"
+  },
+  {
+    "channelId": "94e3004c-0b5a-48e2-a43f-2554acf1297b",
+    "name": "Disney Channel",
+    "category": "Kids",
+    "language": "English",
+    "region": "India"
+  },
+  {
+    "channelId": "c2844ed1-a05f-4121-98cc-d5b50dac21b1",
+    "name": "TLC",
+    "category": "Lifestyle",
+    "language": "Hindi",
+    "region": "India"
+  },
+  {
+    "channelId": "a22ce2db-0451-4fe2-bb55-000cc8b85a9c",
+    "name": "Sky News Australia",
+    "category": "News",
+    "language": "Hindi",
+    "region": "USA"
+  },
+  {
+    "channelId": "ff157599-cffc-4821-8415-879d9319f0b9",
+    "name": "Sky News Australia",
+    "category": "News",
+    "language": "Malayalam",
+    "region": "USA"
+  },
+  {
+    "channelId": "c5ff0bb7-330b-499a-8f10-5e7c9da4441f",
+    "name": "BBC Earth",
+    "category": "Documentary",
+    "language": "Hindi",
+    "region": "Australia"
+  },
+  {
+    "channelId": "77c71fa1-3151-40ee-9ac9-ece8ce4855e2",
+    "name": "Fox Movies",
+    "category": "Movies",
+    "language": "Hindi",
+    "region": "Australia"
+  },
+  {
+    "channelId": "af19ce40-55c7-4f88-a7b3-156e04fa7a95",
+    "name": "Fox Showcase",
+    "category": "TV Shows",
+    "language": "Hindi",
+    "region": "USA"
+  },
+  {
+    "channelId": "1389d50e-aac5-43db-8eb7-6b987915e514",
+    "name": "ESPN",
+    "category": "Sports",
+    "language": "English",
+    "region": "USA"
+  },
+  {
+    "channelId": "199436fa-3183-4cb2-b9d1-3359647fc913",
+    "name": "Sky News Australia",
+    "category": "News",
+    "language": "Tamil",
+    "region": "India"
+  },
+  {
+    "channelId": "5577404b-f4f9-4be5-a4a5-8a907f866085",
+    "name": "Cartoon Network",
+    "category": "Kids",
+    "language": "English",
+    "region": "India"
+  },
+  {
+    "channelId": "d1516768-43e6-4fb3-8f53-5fc88b795724",
+    "name": "Discovery Channel 1",
+    "category": "Documentary",
+    "language": "Tamil",
+    "region": "India"
+  },
+  {
+    "channelId": "9c2c75ac-fa11-4464-af11-da56f191e748",
+    "name": "BBC Earth",
+    "category": "Documentary",
+    "language": "Tamil",
+    "region": "USA"
+  },
+  {
+    "channelId": "2221f2ea-f903-45be-b0c6-a229510856b6",
+    "name": "Nickelodeon",
+    "category": "Kids",
+    "language": "English",
+    "region": "India"
+  },
+  {
+    "channelId": "b79bdefd-5d97-4f59-bc4d-59ccc13f47ca",
+    "name": "Discovery Channel Plus",
+    "category": "Documentary",
+    "language": "Malayalam",
+    "region": "Australia"
+  },
+  {
+    "channelId": "4f9ac5d7-0b5e-4998-ba99-9b6f41ac127e",
+    "name": "Sky News Australia Plus",
+    "category": "News",
+    "language": "Hindi",
+    "region": "Australia"
+  },
+  {
+    "channelId": "a248c639-f356-4909-85c8-ce4e5996b8fd",
+    "name": "HBO",
+    "category": "TV Shows",
+    "language": "Hindi",
+    "region": "Australia"
+  },
+  {
+    "channelId": "f1c7a7c4-6279-4378-8a5d-8134b58da7da",
+    "name": "Sky News Australia",
+    "category": "News",
+    "language": "English",
+    "region": "India"
+  },
+  {
+    "channelId": "25f4555b-34d8-41a1-b3b0-ee00c5288993",
+    "name": "HBO",
+    "category": "TV Shows",
+    "language": "Hindi",
+    "region": "India"
+  },
+  {
+    "channelId": "9a441d38-3d96-44d1-a92d-9f9444e17b97",
+    "name": "Animal Planet",
+    "category": "Documentary",
+    "language": "English",
+    "region": "USA"
+  },
+  {
+    "channelId": "db2dfa4c-5e89-4961-a8c1-f3f2e37e1259",
+    "name": "Nickelodeon",
+    "category": "Kids",
+    "language": "Malayalam",
+    "region": "Australia"
+  },
+  {
+    "channelId": "949ec12e-a551-4ad1-845c-3c08ae8e1a00",
+    "name": "Fox Showcase",
+    "category": "TV Shows",
+    "language": "Malayalam",
+    "region": "India"
+  },
+  {
+    "channelId": "e5a144b8-304e-49b0-a71e-64ec45b259d0",
+    "name": "Comedy Central Plus",
+    "category": "Comedy",
+    "language": "Tamil",
+    "region": "India"
+  },
+  {
+    "channelId": "4202031f-73cc-4229-a913-bb5f5a85c0a2",
+    "name": "National Geographic",
+    "category": "Documentary",
+    "language": "Hindi",
+    "region": "India"
+  },
+  {
+    "channelId": "923b6892-594f-4646-849e-769e00f48963",
+    "name": "Cartoon Network Extra",
+    "category": "Kids",
+    "language": "English",
+    "region": "Australia"
+  },
+  {
+    "channelId": "04f953c5-cd79-4194-bf6f-211584069eae",
+    "name": "Comedy Central",
+    "category": "Comedy",
+    "language": "Hindi",
+    "region": "Australia"
+  },
+  {
+    "channelId": "65d8849e-4f77-4a87-a130-39e95df737a7",
+    "name": "FX HD",
+    "category": "TV Shows",
+    "language": "Malayalam",
+    "region": "USA"
+  },
+  {
+    "channelId": "ff157599-cffc-4821-8415-879d9319f0b91",
+    "name": "Akash the king",
+    "category": "movie",
+    "language": "kannada",
+    "region": "tamil"
+  },
+  {
+    "channelId": "ff157599-cffc-4821-8415-879d9319f0b911",
+    "name": "string",
+    "category": "string",
+    "language": "string",
+    "region": "string"
+  },
+  {
+    "channelId": "ff157599-cffc-4821-8415-879d9319f0b9111",
+    "name": "Akash",
+    "category": "Detective",
+    "language": "Tamil",
+    "region": "TN"
+  },
+  {
+    "channelId": "bff424c2-6fa8-489b-9da8-7bcd77f11e50",
+    "name": "agasder",
+    "category": "show",
+    "language": "hindi",
+    "region": "kannada"
+  },
+  {
+    "channelId": "ba505c59-dece-4797-81f5-63b5c63fbcfa",
+    "name": "agash",
+    "category": "show",
+    "language": "hindi",
+    "region": "kannada"
+  }
+]
