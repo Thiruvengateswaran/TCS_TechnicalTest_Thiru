@@ -14,9 +14,12 @@ public class ChannelsController : ControllerBase
 
     public ChannelsController(JsonDataService service) => _service = service;
 
+    //Read all the channel items
+
     [HttpGet]
     public IActionResult GetChannels() => Ok(_service.GetChannels());
 
+    // Adding a new channel items
     [HttpPost]
     public IActionResult AddChannel(ChannelManager channel)
     {
@@ -27,6 +30,7 @@ public class ChannelsController : ControllerBase
         return CreatedAtAction(nameof(GetChannels), channel);
     }
 
+    //updating the existing catelog item
     [HttpPut("{id}")]
     public IActionResult UpdateChannel(string id, ChannelManager updated)
     {
@@ -39,6 +43,8 @@ public class ChannelsController : ControllerBase
         _service.SaveChannels(channels);
         return NoContent();
     }
+
+    //Deleting ehe existing item
 
     [HttpDelete("{id}")]
     public IActionResult DeleteChannel(string id)

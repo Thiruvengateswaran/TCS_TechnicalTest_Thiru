@@ -10,11 +10,15 @@ public class CatalogController : ControllerBase
 {
     private readonly JsonDataService _service;
 
+
+
     public CatalogController(JsonDataService service) => _service = service;
 
+    // Read Catalog values
     [HttpGet("catalog")]
     public IActionResult GetCatelogs() => Ok(_service.GetContent());
 
+    //Add new catalog item
     [HttpPost("catalog")]
     public IActionResult AddCatelog(ContentCatalog catelog)
     {
@@ -24,6 +28,8 @@ public class CatalogController : ControllerBase
         _service.SaveContent(catelogs);
         return CreatedAtAction(nameof(GetCatelogs), catelog);
     }
+
+    //Update existing catelog item
 
     [HttpPut("catelogs/{id}")]
     public IActionResult UpdateCatalog(string id, ContentCatalog updated)
@@ -37,6 +43,8 @@ public class CatalogController : ControllerBase
         _service.SaveContent(catelogs);
         return NoContent();
     }
+
+    //Delete catelog item
 
     [HttpDelete("catelogs/{id}")]
     public IActionResult DeleteMovie(string id)

@@ -14,9 +14,11 @@ public class ScheduleController : ControllerBase
 
     public ScheduleController(JsonDataService service) => _service = service;
 
+    // Get all the schedule items
     [HttpGet]
     public IActionResult GetAll() => Ok(_service.GetSchedule());
 
+    //Get the current Telecasting/Airing items
     [HttpGet("current")]
     public IActionResult GetCurrentlyAiring()
     {
@@ -24,7 +26,7 @@ public class ScheduleController : ControllerBase
         var airing = _service.GetSchedule().Where(s => DateTime.Parse(s.airTime) <= now && DateTime.Parse(s.endTime) >= now);
         return Ok(airing);
     }
-
+    // Get the current Airing item based on the channel
     [HttpGet("channel/{channelId}")]
     public IActionResult GetByChannel(string channelId)
     {
@@ -32,8 +34,7 @@ public class ScheduleController : ControllerBase
         return Ok(items);
     }
 
-    
-
+    // Add new schedule
     [HttpPost]
     public IActionResult AddSchedule(ScheduleSystem item)
     {
